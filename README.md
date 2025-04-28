@@ -1,4 +1,4 @@
-# 🪑 Desk Posture Reminder (Arduino + Ultrasonic Sensor)
+# 🪑 Desk Posture Reminder (Arduino Uno)
 
 ## Overview
 The **Desk Posture Reminder** is an Arduino-based project designed to promote healthy desk posture.  
